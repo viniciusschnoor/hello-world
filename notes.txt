@@ -32,3 +32,9 @@ EVENTOS CLICK
 > No React os eventos já estão "prontos", podemos utilizar onClick para ativar a função clicar
 > Esta função é criada na prória função do componente
 > As funções geralmente tem o padrão handleAlgumaCoisa
+
+FUNÇÕES NO EVENTO
+> Quando as funções são simples, podemos realizar a lógica no próprio evento
+> Isso torna nosso código mais "COMPLICADO", por atrelar lógica com HTML
+> Mas em algumas situações é aplicável
+
