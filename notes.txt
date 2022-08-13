@@ -26,3 +26,9 @@ HIERARQUIA DE COMPONENTES
 > Componentes criados podem ser reutilizados em vários componentes
 > Podem formar hierarquia, importando um dentro do outro
 
+EVENTOS CLICK
+> Eventos em Front-End são essenciais
+> Precisamos do click para diversas coisas, como enviar formulários
+> No React os eventos já estão "prontos", podemos utilizar onClick para ativar a função clicar
+> Esta função é criada na prória função do componente
+> As funções geralmente tem o padrão handleAlgumaCoisa
