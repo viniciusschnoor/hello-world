@@ -7,3 +7,22 @@ COMPONENTS
 "import X from './components/X'"
 > Para usar, basta colocar o componente em forma de tag
 "<FirstComponent />"
+
+JSX
+> HTML do React
+> Ficam no RETURN do componente
+> Possui algumas diferenças do HTML, class virá className, por exemplo
+> Só pode existir um elemento pai
+
+COMENTÁRIOS
+> Onde é executada a lógica: // COMENTARIO
+> JSX: {/* COMENTARIO */}
+
+TEMPLATE EXPRESSIONS
+> Permite executar JS no JSX e interpolar variáveis
+> {algumCodigoJS}
+
+HIERARQUIA DE COMPONENTES
+> Componentes criados podem ser reutilizados em vários componentes
+> Podem formar hierarquia, importando um dentro do outro
+
