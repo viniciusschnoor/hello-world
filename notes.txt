@@ -3,3 +3,7 @@ COMPONENTS
 > Nomeados com CamelCase: FirstComponent.js
 > Neste arquivo se cria uma função com o código deste componente (lógica e template[HTML, JSX])
 > Necessário Exportar essa função
+> Importar é o ato de reutilizar um componente
+"import X from './components/X'"
+> Para usar, basta colocar o componente em forma de tag
+"<FirstComponent />"
