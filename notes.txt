@@ -1,0 +1,5 @@
+COMPONENTS
+> Componentes sempre ficarão em uma pasta chamada 'components' dentro de 'src'
+> Nomeados com CamelCase: FirstComponent.js
+> Neste arquivo se cria uma função com o código deste componente (lógica e template[HTML, JSX])
+> Necessário Exportar essa função
