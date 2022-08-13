@@ -6,4 +6,4 @@ const FirstComponent = () => {
     );
 };
 
-export default FirstComponent
+export default FirstComponent;
