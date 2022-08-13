@@ -1,9 +1,10 @@
 // Components
 import FirstComponent from './components/FirstComponent';
+import TemplateExpressions from './components/TemplateExpressions';
+import MyComponent from './components/MyComponent';
 
 // Styles
 import './App.css';
-import TemplateExpressions from './components/TemplateExpressions';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <h1>Hello World React!</h1>
       <FirstComponent />
       <TemplateExpressions />
+      <MyComponent />
     </div>
   );
 }

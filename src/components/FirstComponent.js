@@ -1,8 +1,11 @@
+import MyComponent from "./MyComponent";
+
 const FirstComponent = () => {
     return(
         <div>
-            {/* COMENTÁRIO */}
+            {/* COMENTÁRIO*/}
             <h1>Meu Primeiro Componente</h1>
+            <MyComponent />
         </div>
     );
 };
